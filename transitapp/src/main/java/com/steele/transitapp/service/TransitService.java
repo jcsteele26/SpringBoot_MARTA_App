@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 import com.steele.transitapp.model.Bus;
+import com.steele.transitapp.model.BusComparator;
 import com.steele.transitapp.model.BusRequest;
 import com.steele.transitapp.model.DistanceResponse;
 import com.steele.transitapp.model.GeocodingResponse;
